@@ -6,7 +6,7 @@ api_key = "your-key-here"
 
 app = Flask(__name__)
 
-app.config['SECRET_KEY'] = '2D78D94C49A787ECC0FEEEFB'
+app.config['SECRET_KEY'] = ''
 appName = "PitchPerfect"
 
 
