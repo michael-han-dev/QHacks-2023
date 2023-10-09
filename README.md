@@ -1,5 +1,5 @@
 # QHacks2023
-Kevin Liang, Michael Han, Brett McGonagal, Thomas Tesselaar
+Kevin Liang, Michael Han, Brett McGonigal, Thomas Tesselaar
 
 ## Running the code
 To run the code, first get the code from GitHub and then make sure all dependencies are installed. You will need installed:
